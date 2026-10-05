@@ -1,6 +1,4 @@
-import random
- 
- 
+
 def recorrer(inicio, fin):
    
     if inicio == fin:
